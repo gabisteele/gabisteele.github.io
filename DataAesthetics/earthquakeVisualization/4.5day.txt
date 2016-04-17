@@ -1,0 +1,18 @@
+time	latitude	longitude	depth	mag	magType	nst	gap	dmin	rms	net	id	updated	place	type
+2015-09-28T16:33:51.880Z	39.7833	142.6888	35	4.6	mb	150	1.838	0.92	us	us20003pp3	2015-09-28T19:26:29.715Z	65km ENE of Miyako, Japan	earthquake
+2015-09-28T15:28:03.090Z	-23.7759	-66.5785	192.73	5.4	mb	35	1.683	0.76	us	us20003pnw	2015-09-28T19:00:19.530Z	55km NNW of San Antonio de los Cobres, Argentina	earthquake
+2015-09-28T14:55:34.580Z	-9.2674	120.1397	85.09	4.7	mb	62	2.165	0.8	us	us20003pns	2015-09-28T17:36:58.522Z	27km NNW of Tambulatana, Indonesia	earthquake
+2015-09-28T13:37:04.850Z	16.6231	-86.4012	15	5	mb	32	2.686	0.64	us	us20003pnj	2015-09-28T17:32:29.551Z	30km N of French Harbor, Honduras	earthquake
+2015-09-28T08:16:02.220Z	-3.3334	-80.605	45.38	4.8	mb	115	4.149	0.95	us	us20003pmn	2015-09-28T16:18:30.565Z	31km NW of Tumbes, Peru	earthquake
+2015-09-28T07:41:44.740Z	3.6882	-31.8949	10	4.7	mb	111	10.264	1.28	us	us20003pmj	2015-09-28T15:44:20.864Z	Central Mid-Atlantic Ridge	earthquake
+2015-09-28T07:07:10.180Z	19.9964	-45.566	10	4.8	mb		102	15.613	0.81	us	us20003pmc	2015-09-28T15:09:41.308Z	Northern Mid-Atlantic Ridge	earthquake
+2015-09-28T06:40:08.030Z	20.1377	-45.6373	10	4.6	mb		101	15.74	0.86	us	us20003pm8	2015-09-28T14:42:47.263Z	Northern Mid-Atlantic Ridge	earthquake
+2015-09-28T06:05:42.900Z	-31.7648	-72.3057	10	4.8	mwr		81	1.23	1.35	us	us20003pm3	2015-09-28T14:08:16.397Z	109km W of Illapel, Chile	earthquake
+2015-09-28T04:53:14.450Z	14.4382	-93.6281	37.29	4.5	mb		188	1.874	1.08	us	us20003plx	2015-09-28T12:56:00.202Z	133km WSW of Puerto Madero, Mexico	earthquake
+2015-09-28T03:07:16.500Z	-5.1772	-76.7798	107.83	4.5	mb		96	4.777	0.92	us	us20003plb	2015-09-28T11:09:52.138Z	39km SSW of Barranca, Peru	earthquake
+2015-09-28T01:02:06.080Z	20.1829	-45.5437	10	5.1	mb		71	15.57	1.26	us	us20003pl3	2015-09-28T09:04:33.791Z	Northern Mid-Atlantic Ridge	earthquake
+2015-09-28T00:44:25.940Z	19.9735	-45.342	10	5	mb		104	15.222	1.21	us	us20003pl2	2015-09-28T08:46:54.989Z	Northern Mid-Atlantic Ridge	earthquake
+2015-09-28T00:42:23.340Z	20.0793	-45.4285	10	4.9	mb		83	15.191	0.98	us	us20003pkx	2015-09-28T17:57:21.000Z	Northern Mid-Atlantic Ridge	earthquake
+2015-09-28T00:32:34.800Z	20.2737	-45.6681	10	5	mb		61	15.465	0.77	us	us20003pkv	2015-09-28T17:57:20.000Z	Northern Mid-Atlantic Ridge	earthquake
+2015-09-27T22:39:57.670Z	-31.2202	-71.8543	20.23	4.6	mwr		118	0.576	1.17	us	us20003pk8	2015-09-28T06:42:41.644Z	79km NW of Illapel, Chile	earthquake
+2015-09-27T21:04:46.240Z	-31.6748	-71.6072	30.18	4.9	mwr		73	1.344	0.97	us	us20003pjl	2015-09-28T01:50:28.178Z	42km W of Illapel, Chile	earthquake
